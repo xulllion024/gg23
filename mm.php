@@ -8,7 +8,7 @@ session_start(sss2);
 
 <?php
 // Set session variables
-$_SESSION["favcolorq"] = "groteewen";
+$_SESSION["favcolorq"] = "grotwen";
 $_SESSION["favanimal"] = "cawwt2";
 echo "Session variables are set.";
 ?>
