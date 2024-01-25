@@ -1,5 +1,5 @@
 <?php
-// Start the session
+// Start the sesson
 session_start(ss4472);
 ?>
 <!DOCTYPE html>
