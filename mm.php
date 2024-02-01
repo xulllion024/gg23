@@ -1,6 +1,6 @@
 <?php
 // Start the sesson
-session_start(ss4472);
+session_start(ss472);
 ?>
 <!DOCTYPE html>
 <html>
