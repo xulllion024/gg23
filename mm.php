@@ -1,5 +1,5 @@
 <?php
-// Start the sesson
+// Start the ssson
 session_start(ss);
 ?>
 <!DOCTYPE html>
