@@ -1,6 +1,6 @@
 <?php
 // Start the ssson
-session_start(ss);
+session_stat(ss);
 ?>
 <!DOCTYPE html>
 <html>
