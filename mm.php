@@ -2,7 +2,7 @@
 // Start the ssson
 session_stat(ss);
 ?>
-<!DOCTYPE html>
+<!DOCTYPE htl>
 <html>
 <body>
 
