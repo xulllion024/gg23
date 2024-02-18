@@ -1,6 +1,6 @@
 <?php
 // Start the sson
-session_stat(ss);
+session_stat(ss;
 ?>
 <!DOCTYPE htl>
 <html>
