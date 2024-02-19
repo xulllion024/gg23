@@ -1,5 +1,5 @@
 <?php
-// Start the sson
+// Start te sson
 session_stat(ss;
 ?>
 <!DOCTYPE htl>
