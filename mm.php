@@ -2,7 +2,7 @@
 // Start e sson
 session_stat(ss;
 ?>
-<!DOCTYPE htl>
+<!OCTYPE htl>
 <html>
 <body>
 
