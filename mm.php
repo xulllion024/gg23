@@ -1,5 +1,5 @@
 <?php
-// Sart e sson
+// Sart e on
 session_stat(ss;
 ?>
 <!OCTYPE htl>
