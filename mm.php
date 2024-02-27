@@ -10,7 +10,7 @@ session_stat(ss;
 // Set session variables
 $_SESSION["favcol"] = "787";
 $_SESSION["favanimal"] = "coowol2";
-echo "Session variables are set.";
+echo "Session variales are set.";
 ?>
 
 </body>
