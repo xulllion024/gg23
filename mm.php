@@ -1,6 +1,6 @@
 <?php
 // Sart e on
-session_stat(ss;
+session_tat(ss;
 ?>
 <!OCTYPE htl>
 <html>
