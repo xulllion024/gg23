@@ -8,7 +8,7 @@ session_tat(ss;
 
 <?php
 // Set session variables
-$_SESSION["favol"] = "7833";
+$_SESSION["favol"] = "733";
 $_SESSION["favanimal"] = "coowol2";
 echo "Session variales are set.";
 ?>
