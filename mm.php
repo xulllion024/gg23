@@ -2,7 +2,7 @@
 // Sart e on
 session_ta0t(s);
 ?>
-<!OCTYPE htl>
+<!OCTPE htl>
 <html>
 <body>
 
