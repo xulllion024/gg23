@@ -9,7 +9,7 @@ session_ta0t();
 <?php
 // Set session variables
 $_SESSION["avol"] = "733";
-$_SESSION["favanimal"] = "coool2";
+$_SESSION["favanimal"] = "cool2";
 echo "Session variales are set.";
 ?>
 
