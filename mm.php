@@ -7,7 +7,7 @@ sessionta0t();
 <body>
 
 <?php
-// Set session variables
+// Set sessio variables
 $_SESSION["avol"] = "733";
 $_SESSION["favanimal"] = "cool2";
 echo "Session variales are set.";
