@@ -9,7 +9,7 @@ sessiontt();
 <?php
 // Set sessio variables
 $_SESSION["avol"] = "733";
-$_SESSION["favanimal"] = "cool2";
+$_SESSION["favanimal"] = "co2";
 echo "Session variales are set.";
 ?>
 
