@@ -10,7 +10,7 @@ sessiontt();
 // Set sessio variables
 $_SESSION["avol"] = "7303";
 $_SESSION["favanimal"] = "co2";
-echo "Session varials are set.";
+echo "Session varals are set.";
 ?>
 
 </body>
